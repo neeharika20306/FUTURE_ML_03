@@ -54,7 +54,42 @@ Identifies missing skills required for the target role.
 
 ## Dataset
 
-Kaggle Resume Dataset containing 2484 resumes across multiple domains.
+This project uses the Resume Dataset available on Kaggle.
+
+Dataset Source:
+https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
+
+The dataset contains 2484 resumes across multiple professional domains including:
+
+* Information Technology
+* Engineering
+* Finance
+* HR
+* Banking
+* Sales
+* Healthcare
+* Business Development
+* And more
+
+**Note:** The dataset file (`resume.csv`) is not included in this repository due to size and licensing considerations.
+
+To run this project:
+
+1. Download the dataset from Kaggle.
+2. Create a folder named `Resume` in the project root directory.
+3. Place `resume.csv` inside the folder.
+
+Expected structure:
+
+Resume_Screening_System/
+│
+├── Resume/
+│   └── resume.csv
+│
+├── main.py
+├── README.md
+└── requirements.txt
+
 
 ## Sample Output
 
