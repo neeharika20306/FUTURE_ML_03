@@ -1,0 +1,19 @@
+TOP CANDIDATE ANALYSIS
+=====================
+
+Candidate ID: 12011623
+
+Matched Skills:
+- python
+- data analysis
+- machine learning
+- pandas
+- sql
+
+Missing Skills:
+- scikit-learn
+- numpy
+- deep learning
+- git
+
+Skill Match Percentage: 55.56%
